@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSampleJvm" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-14T12:15:29" hostname="DESKTOP-FCVINI6" time="0.024">
+  <properties/>
+  <testcase name="testHello[jvm]" classname="TestSampleJvm" time="0.024"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

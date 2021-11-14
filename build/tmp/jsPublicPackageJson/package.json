@@ -1,0 +1,10 @@
+{
+  "name": "Multiplatform-Test-Project",
+  "version": "1.0.0-SNAPSHOT",
+  "main": "Multiplatform-Test-Project.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
